@@ -1,0 +1,5 @@
+{
+  "name": "StackFlow Simulator",
+  "description": "A full-stack architecture visualizer and content processor. It simulates a Node.js/BullMQ/Redis backend pipeline while using Google Gemini for real-time intelligent content summarization and analysis.",
+  "requestFramePermissions": []
+}
